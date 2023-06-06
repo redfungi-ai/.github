@@ -1,4 +1,4 @@
-## redfungi by ConnectNow
+# Developer Center
 
 AI-Powered solutions for your business.
 
