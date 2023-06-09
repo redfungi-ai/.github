@@ -1,8 +1,6 @@
-# Developer Center
+# Welcome to redfungi
 
-[**🗺️ Roadmap**](https://github.com/orgs/redfungi-ai/projects/1) &nbsp; | &nbsp; [**App Repo**](https://github.com/redfungi-ai/app)
-
-Welcome to the RedFungi.ai Developer Center! This is the hub where developers like you come together to collaborate on our project, track the roadmap, and stay updated on target dates.
+Welcome to the redfungi.ai Developer Center! This is the hub where developers like you come together to collaborate on our project, track the roadmap, and stay updated on target dates.
 
 Here, you'll find valuable resources, documentation, and tools to empower your development journey with RedFungi.ai. Join our vibrant community of passionate developers, share knowledge, exchange ideas, and contribute to building innovative AI-powered solutions.
 
